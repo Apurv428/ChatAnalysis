@@ -1,6 +1,6 @@
 # ChatAnalysis
 
-### An Experiment project to generate whats app group chat analytics and Searching (powered by AI)
+### A demo project to generate WhataApp group chat analytics and Searching.
 
 ### Our Motive:
 1. Chat analytics and searching tool
