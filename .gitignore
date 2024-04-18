@@ -1,0 +1,14 @@
+.env
+.venv
+backend/.env/
+backend/.ipynb_checkpoints/
+backend/__pycache__/
+backend/experimentations_flask/__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.pyc
+*.pyo
+frontend/node_modules/
